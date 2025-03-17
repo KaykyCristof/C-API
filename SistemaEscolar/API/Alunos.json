@@ -1,0 +1,19 @@
+{
+  "alunos": [
+    {
+      "nome": "João Silva",
+      "matricula": "2023001",
+      "notas": [8.5, 9.0, 7.5, 8.0]
+    },
+    {
+      "nome": "Maria Oliveira",
+      "matricula": "2023002",
+      "notas": [7.0, 8.5, 9.5, 8.0]
+    },
+    {
+      "nome": "Carlos Santos",
+      "matricula": "2023003",
+      "notas": [6.5, 7.0, 8.0, 7.5]
+    }
+  ]
+}
